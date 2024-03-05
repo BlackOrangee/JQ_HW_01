@@ -1,0 +1,14 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero a{
+    padding: 20px;
+    background-color: green;
+    border-radius: 50px;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 50px;
+}
